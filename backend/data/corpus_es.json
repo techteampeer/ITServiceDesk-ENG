@@ -1,0 +1,1484 @@
+[
+ {
+  "id": "INC-0001",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA COMANDAS || Reinicio de servicios",
+  "solucion": "Se verifica conexión con control Printers Se reinicia servicio de comandas Se reinicia servicio de facturación electrónica Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las comandas salen correctamente"
+ },
+ {
+  "id": "INC-0002",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0003",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE COMANDERA comandera de cocina | NO IMPRIME",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0004",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "VALIDACION DE PROVEEDOR",
+  "solucion": "Se verifica conexión con control Printers Se reinicia servicio de comandas Se reinicia servicio de facturación electrónica Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las comandas salen correctamente"
+ },
+ {
+  "id": "INC-0005",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "EQUIPO INTERFACES | PROBLEMAS CON INTERFACES DE TDA-000 CON FECHA [FECHA] - VENTA PEGADA",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0006",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "Pixel Point TDA-000 Caja1",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0007",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON IMPRESION DE TICKETS",
+  "solucion": "• se reinicia servicio de comandass • se reinicia servicio de facturación electrónica • se reinicia cola de impresión • se reinicia API local • se reinicia servicio de pasarela • usuario valida impresión de tickets en cola"
+ },
+ {
+  "id": "INC-0008",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON LA IMPRESION DE BOLETAS",
+  "solucion": "Se apertura aplicativo al iniciarlo se valida que los pagados y corte de caja se imprime"
+ },
+ {
+  "id": "INC-0009",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON IMPRESION DE COMANDAS",
+  "solucion": "se reinicia servicio de comandass se reinicia servicio de facturación electrónica se reinicia cola de impresión se reinicia API local se reinicia servicio de pasarela usuario valida impresión de comandas en cola"
+ },
+ {
+  "id": "INC-0010",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0011",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta [NOMBRE] 134",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que la ticketera funciona correctamente"
+ },
+ {
+  "id": "INC-0012",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO -- Problemas con la impresión de comandas",
+  "solucion": "servicio de comandas deshabilitado en [NOMBRE] . Se habilita servicio de comandas y se reinicia servicios. Se valida que las comandas se imprimen de manera correcta"
+ },
+ {
+  "id": "INC-0013",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA BOLETAS || Reinicio de cola",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0014",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta [NOMBRE] TDA-000",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0015",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta [NOMBRE] BB-99",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0016",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE ROUTER | SIN CONEXION",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0017",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE COMANDERA | NO IMPRIME",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0018",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "TDA-000 Delivery",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0019",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "DEVOLUCION DE LLLAMADA || Problema de impresion de boletas",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0020",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "DEVOLUCION DE LLAMADA || PROBLEMA DE IMPRESION DE BOLETAS [NOMBRE] TDA-000",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que la ticketera funciona correctamente"
+ },
+ {
+  "id": "INC-0021",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON IMPRESION DE TICKETS DELIVERY",
+  "solucion": "ticket duplciadp ton ticket 502619rn"
+ },
+ {
+  "id": "INC-0022",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta [NOMBRE] BB-63",
+  "solucion": "DESCARTES Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0023",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON IMPRESIÓN DE COMANDAS",
+  "solucion": "Se verifica que es por la comandera ncr3 Se reinicia cola de impresion Usuario valida solución"
+ },
+ {
+  "id": "INC-0024",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "SOPORTE REMOTO - INSTALACIÓN DE AGENTE NAC",
+  "solucion": "Se verifica conexión con control Printers Se reinicia servicio de comandas Se reinicia servicio de facturación electrónica Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las comandas salen correctamente"
+ },
+ {
+  "id": "INC-0025",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "PROBLEMA CON SAP BLOQUEADO",
+  "solucion": "Se verifica conexión con EdgePort Se reinicia servicio de cola de impresión Se imprime página de prueba Se hace un pedido de prueba Usuario valida que las boletas se imprimen con normalidad"
+ },
+ {
+  "id": "INC-0026",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0027",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "TDA-000 Servidor APPS CERRADAS",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0028",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0029",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0030",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0031",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0032",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0033",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0034",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0035",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0036",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0037",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0038",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0039",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0040",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0041",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0042",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000-[NOMBRE] -Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0043",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0044",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0045",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0046",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0047",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0048",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Servidor",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0049",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "SOPORTE REMOTO | PROBLEMA sistema de gestión de horarios || Usuario Bloqueado",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0050",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0051",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "CRUZE DE VENTAS",
+  "solucion": "Se le indica el área que realiza la separación de montos"
+ },
+ {
+  "id": "INC-0052",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "FALTA DE DESCARGA DE RECETA [LOCAL] [FECHA]",
+  "solucion": "se valida que cuenta con descarga"
+ },
+ {
+  "id": "INC-0053",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON ENLACE DE INTERNET",
+  "solucion": "Firewall de windows bloqueaba el monitoreo -Se desactiva el firewall y se valida reconexión"
+ },
+ {
+  "id": "INC-0054",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PROCESO DE INTERFAS sistema de gestión",
+  "solucion": "sistema de gestión PROCESO EXITOSAMENTE"
+ },
+ {
+  "id": "INC-0055",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "No procesa interface ni descarga de venta",
+  "solucion": "SE REALIZO FIN DE DIA sistema de gestión PROCESO EXITOSAMENTE"
+ },
+ {
+  "id": "INC-0056",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "RE: [NGR] Cambio de contraseña",
+  "solucion": "Problema Específico: Problemas para logearse al aplicativo (sistema de gestión)/214 Causa: Demasiados intentos fallidos/Olvido de contraseña Descripción de la Solución: 1. Se procede al desbloqueo de la contraseña 2. Se valida el correcto ingreso al aplicativo"
+ },
+ {
+  "id": "INC-0057",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "NO SE PUEDE REALIZAR TRASPASO",
+  "solucion": "SE LE INDICA QUE DEBE REPORTARLO CON CONTROL INTERNO"
+ },
+ {
+  "id": "INC-0058",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - LENTITUD EN CAJA",
+  "solucion": "Se eliminan temporales Usuario valida solución"
+ },
+ {
+  "id": "INC-0059",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO | PROBLEMA aplicativo de caja || servicio de comandas no iniciado",
+  "solucion": "se inicia servicio de impresiones se reinicia servicios se valida con usuaria se da conformidad del caso"
+ },
+ {
+  "id": "INC-0060",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON VPN",
+  "solucion": "Se reincia aplicativo VPN -Se valida reconexión con [NOMBRE] - Counter"
+ },
+ {
+  "id": "INC-0061",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO | PROBLEMA VALE CORPORATIVO",
+  "solucion": "Se verifica aplicaciones abiertas en el servidor Se reinicia moneda en servidor Se replica en servidor Se ejecuta servicio de registro en caja Se inician aplicativos en caja Se hace un pedido de prueba Usuario valida que ya puede ingresar vales"
+ },
+ {
+  "id": "INC-0062",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS PixelPoint",
+  "solucion": "SOLUCIÓN MOMENTANEA Se ejecuta servicio de registro Se eliminan temporales Se inician aplicativos como [NOMBRE] Usuario valida y se le indica que en caso se repita el incidente se comunique con HD"
+ },
+ {
+  "id": "INC-0063",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "RV: ERROR DE SAP AL PASAR C.I [FECHA]",
+  "solucion": "se le indica a la tienda que reporte el incidente con control interno"
+ },
+ {
+  "id": "INC-0064",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "TDA-000 PCAdmin",
+  "solucion": "Servicio nagios detenido se inicia el servicio y se valida el correcto funcionamiento"
+ },
+ {
+  "id": "INC-0065",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - DOMINIO BLOQUEADO",
+  "solucion": "Se restableció contraseña y se brindo a usuario. Se valida que usuario ingresa de manera correcta a dominio"
+ },
+ {
+  "id": "INC-0066",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PROBLEMA PARA PROCESAR LA VENTA EN sistema de gestión - MENSAJE DE ERROR: JDBC CONNECTION",
+  "solucion": "SE EJECUTO COMANDO SET GLOBAL YA NO SALE ERROR JBL"
+ },
+ {
+  "id": "INC-0067",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - Usuario sap bloqueado",
+  "solucion": "Se restablecio la contraseña de usuario. Se valida que usuario ingresar de manera correcta al sap : DD6176"
+ },
+ {
+  "id": "INC-0068",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE REMOTO - Problema con la interface no se respondió pregunta",
+  "solucion": "Problema con la interface no se respondió pregunta. Se valida que las interfaces se procesan de manera correcta"
+ },
+ {
+  "id": "INC-0069",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PERU - Global Polling Notification",
+  "solucion": "Se verifica que PixelPoint se esta ejecutando en 2do plano Se cierra desde [NOMBRE] Se inicia PixelPoint con normalidad Usuario valida solución"
+ },
+ {
+  "id": "INC-0070",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PRUEBAS DE Apertura: [MARCA] - [NOMBRE] - [NOMBRE]",
+  "solucion": "SE VALIDA QUE FECHA Y HORA ES CORRECTA EN CAJA Y EN SERVIDOR SE INICIA DIA SE VALIDA QUE LA FECHA DE APERTURA ES LA CORRECTA [FECHA]-24rn"
+ },
+ {
+  "id": "INC-0071",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "ESCALADO - PROBLEMAS CON INTERFAS [FECHA]",
+  "solucion": "se restauro la conexión y se valido con encargada"
+ },
+ {
+  "id": "INC-0072",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "TK INFORMATIVO - PROBLEMAS DE SAP",
+  "solucion": "SOLUCION : Se inicia aplicativos se vuelve a procesar interfaces. se valida conformidad"
+ },
+ {
+  "id": "INC-0073",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "RE: PROBLEMAS PARA REGISTRAR MOVIMIENTOS",
+  "solucion": "SOLUCION: Se procede a desbloquear y se valida acceso al sap"
+ },
+ {
+  "id": "INC-0074",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PROBLEMA CON CAJA 1 - SE REINICIA CONSTANTEMENTE",
+  "solucion": "Se reinicia servicio mysql Se ejecuta servicio de registro en caja Se reinicia aplicativos Usuario valida"
+ },
+ {
+  "id": "INC-0075",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE SERVIDOR | APPS NO INICIADAS",
+  "solucion": "SE REPLICA SE REINICIA servicio de comandas servicio de facturación electrónica API local Y COLA DE IMPRESIONES servicio de registro EN CAJA 1 SE INICIAN APLICATIVOS SE INDICA QUE HAY QUE VALIDAR CON EL PROXIMO PEDIDO DE AGREGADOR"
+ },
+ {
+  "id": "INC-0076",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON VALES CORPORATIVOS (NO SALE CUADRO PARA DIGITAR VALES)",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0077",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON CORTE DE CAJA - NO SE VISUALIZA CUADRO PARA DIGITAR LOS MONTOS - PixelPoint CERRADO",
+  "solucion": "TIcketera desconfigurada. Se inicializa ticketera con apoyo de usuario. Se valida que las boletas pendientes se imprimen al inicializar la ticketera"
+ },
+ {
+  "id": "INC-0078",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "Problema con Corte de Caja en Detallado TDA-000 La [NOMBRE]",
+  "solucion": "Se escalo con supervisores"
+ },
+ {
+  "id": "INC-0079",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON APLICATIVO PixelPoint - COLA DE IMPRESION",
+  "solucion": "SE REINICIA COLA DE IMPRESION"
+ },
+ {
+  "id": "INC-0080",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON COMANDAS",
+  "solucion": "no tuvimos respuesta d tienda"
+ },
+ {
+  "id": "INC-0081",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CAJA || No imprime boleta",
+  "solucion": "Se reinicio servicio servicio de comandas impresiones"
+ },
+ {
+  "id": "INC-0082",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON DELIVERY - CAJA",
+  "solucion": "SE INICIA CORRECTAMENTE"
+ },
+ {
+  "id": "INC-0083",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON BOLETAS (NO SALEN EN TICKETERA)",
+  "solucion": "Adaptador de red se encontraba deshabilitado. Se habilita y se reestablece conexión. Se valida conexión con [NOMBRE] Colonia - Full time"
+ },
+ {
+  "id": "INC-0084",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON CUADRO DE DOC MANUALES PENDIENTES // NO SALIÓ EN EL SISTEMA",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0085",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON PICKUP WEB (NO SE VISUALIZA EN EL SISTEMA)",
+  "solucion": "OBSERVACIONES: Se ejecuto monedas Se replico Problema persiste"
+ },
+ {
+  "id": "INC-0086",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON CAJA DE AGREGADORES (NO SALEN BOLETAS EN TICKETERA) - COLA DE IMPRESION",
+  "solucion": "SE VALIDO EN EL TK http://172.21.200.130/glpi1/glpi/front/ticket.form.php?id="
+ },
+ {
+  "id": "INC-0087",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON CORTE DE CAJA - MENSAJE DE ERROR EN SISTEMA PixelPoint",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0088",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON CORTE DE CAJA DE COLABORADOR",
+  "solucion": "se informa ausaurio procedimiento"
+ },
+ {
+  "id": "INC-0089",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON CAJA - COLGADA",
+  "solucion": "SE VALIDA QUE CAJA NO E CUALGA HASTA EL MOMENTO"
+ },
+ {
+  "id": "INC-0090",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON SISTEMA OPERATIVO - CAJA",
+  "solucion": "SE VALIDA QUE INICIA CON NORMALIDAD"
+ },
+ {
+  "id": "INC-0091",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON POS - CAJA",
+  "solucion": "Se valida que pos inicia correctamente"
+ },
+ {
+  "id": "INC-0092",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON PEDIDO DELIVERY",
+  "solucion": "se reakiza el pasado de pedido a tiempo 1 y ya se visualiza"
+ },
+ {
+  "id": "INC-0093",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON IMPRESORA",
+  "solucion": "SE REINCIA COLA DE IMPRESION SE REINICIA HP"
+ },
+ {
+  "id": "INC-0094",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE TECNICO - PROBLEMA CON TICKETERA - NO IMPRIME",
+  "solucion": "SE REVISA COLA DE IMPRESION PAUSADO SE QUITA LA PAUSA SE IMPRIMES TKS EN COLA"
+ },
+ {
+  "id": "INC-0095",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON APLICATIVO PixelPoint - VALES",
+  "solucion": "SE REPLICA CON NORMALIDAD"
+ },
+ {
+  "id": "INC-0096",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON POS",
+  "solucion": "SE LE AYUDA CON EL POS QUE NO CRGA DE CAJA"
+ },
+ {
+  "id": "INC-0097",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "PROBLEMA CON TECLADO (NO RESPONDE) - CAJA 1",
+  "solucion": "NO HAY RESPUESTA CON LA TIENDA"
+ },
+ {
+  "id": "INC-0098",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON PixelPoint - CAJA",
+  "solucion": "Problema Especifico"
+ },
+ {
+  "id": "INC-0099",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON FIN DE DÍA",
+  "solucion": "SE REALIZA FIN DE DÍA"
+ },
+ {
+  "id": "INC-0100",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON APLICATIVO PixelPoint CAJA 1 Y 2 | NO APARECE CUADRO DE CORTE DE CAJA",
+  "solucion": "SE CONFIGURO TEMP"
+ },
+ {
+  "id": "INC-0101",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA (NO PERMITE ANULAR)",
+  "solucion": "SE RESETEA CONTRASEÑA"
+ },
+ {
+  "id": "INC-0102",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMAS CON CUENTA ABIERTA",
+  "solucion": "Se [NOMBRE] cuenta abierta"
+ },
+ {
+  "id": "INC-0103",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - Anulación quedo como cuenta abierta",
+  "solucion": "Se cierra cuenta abierta desde fix. Se valida que usuario realiza la correcta anulación de cuenta"
+ },
+ {
+  "id": "INC-0104",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA",
+  "solucion": "Se [NOMBRE] cuenta y reinicio aplicativos"
+ },
+ {
+  "id": "INC-0105",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CUENTA ABIERTA",
+  "solucion": "Se verifica que cuenta abierta no se puede cerrar como operación de tienda Se cierra cuenta en servidor Usuario valida solución"
+ },
+ {
+  "id": "INC-0106",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON EQUIPO MORPHO",
+  "solucion": "Cancelación de cuenta abierta no finalizada"
+ },
+ {
+  "id": "INC-0107",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ORIENTACION AL USUARIO -- CUENTA ABIERTA",
+  "solucion": "ORIENTACION AL USUARIO -- CUENTA ABIERTA"
+ },
+ {
+  "id": "INC-0108",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON APLICATIVO PIXEL CAJA 1 | CUENTA ABIERTA",
+  "solucion": "SE CIERRA CUENTA REALIZA ANULACION VALIDA"
+ },
+ {
+  "id": "INC-0109",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - CUENTA ABIERTA",
+  "solucion": "Se replica en servidor Se reinicia moneda Se cierra cuenta abierta Usuario valida solución"
+ },
+ {
+  "id": "INC-0110",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON CUENTA ABIERTA",
+  "solucion": "Se cierra cuenta abierta Usuario valida"
+ },
+ {
+  "id": "INC-0111",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA (NO PERMITE ANULAR) - CAJA 1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0112",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CUENTA ABIERTA || [NOMBRE] TDA-000",
+  "solucion": "Se verifica que cuenta abierta no se puede cerrar como operación de tienda Se cierra cuenta en servidor Usuario valida solución"
+ },
+ {
+  "id": "INC-0113",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON CUENTA ABIERTA",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0114",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON APLICATIVO PixelPoint - CUENTA ABIERTA",
+  "solucion": "SE REINICIA APLICATIVO"
+ },
+ {
+  "id": "INC-0115",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA (NO PERMITE ANULAR) - CAJA 2",
+  "solucion": "se reinstala ticketera de bar"
+ },
+ {
+  "id": "INC-0116",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON CUENTA ABIERTA",
+  "solucion": "tciket duplkicado"
+ },
+ {
+  "id": "INC-0117",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON CUENTA ABIERTA",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0118",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON CUENTA ABIERTA",
+  "solucion": "se procede a cerrar la cuenta se valida que ya realizacorte de manera normal"
+ },
+ {
+  "id": "INC-0119",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA (NO PERMITE ANULAR) EN [NOMBRE]",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0120",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "()",
+  "solucion": "no permitia anular cuenta abierta se carga nuevamente se replica servidor se reinicia con servicio de registro se hace prueba permite anular cuenta abierta se da conformidad del caso"
+ },
+ {
+  "id": "INC-0121",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON PixelPoint -CUENTA ABIERTA",
+  "solucion": "SE INGRESA APLICATIVO POR CUENTA ABIERTA SE VALIDA CUENTA CERRADA"
+ },
+ {
+  "id": "INC-0122",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON PixelPoint CUENTA ABIERTA",
+  "solucion": "SE INDICA SOBRE CUENTA ABIERTA USUARIA VALIDA CUENTA CERRADA Y LO ANULA"
+ },
+ {
+  "id": "INC-0123",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ORIENTACION AL USUARIO -- CUENTA ABIERTA PAGO INCORRECTO",
+  "solucion": "ORIENTACION AL USUARIO -- CUENTA ABIERTA metodo de pago amex Pin Pad Se libera transacción para que usuario pueda usarla"
+ },
+ {
+  "id": "INC-0124",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA - NO PERMITE ANULAR - CAJA 1",
+  "solucion": "SE DEVUELVE LLAMADA USUARIO NO RESPONDE"
+ },
+ {
+  "id": "INC-0125",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "PROBLEMA CON CUENTA ABIERTA (NO PERMITE ANULAR) EN [NOMBRE] BB 259 SNACK",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0126",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON PixelPoint - SERVIDOR",
+  "solucion": "Problema Especifico: PixelPoint ERROR DE CONEXION Causa: APLICACIONES DE SERVIDOR CERRADA Descripción de la Solución: SE INICIAN APLICACIONES DE SERVIDOR SE INICIA PixelPoint SE VALIDA QUE INICIA CORRECTAMENTE Nombre del Colaborador: [NOMBRE]"
+ },
+ {
+  "id": "INC-0127",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON BOLETAS - CAJA",
+  "solucion": "Problema Especifico: BOLETA NO SE EMITEN Causa: COLA ATORADA Descripción de la Solución: SE REINICIA SERVICIOS SE VALIDA QUE BOLETA SE EMITEN Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: AT"
+ },
+ {
+  "id": "INC-0128",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON PEDIDO - PICKUP",
+  "solucion": "Problema Especifico: BOLETA DE PICKUP NO SE EMITE Causa: -- Descripción de la Solución: SE REINICIA SERVICIOS SE REINICIA APLICACIONES DE CAJA SE VALIDA QUE BOLETA SE EMITE Nombre del Colaborador: STUARD Cargo del Colaborador: AT"
+ },
+ {
+  "id": "INC-0129",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS DE AUDIO",
+  "solucion": "Problema Especifico: PROBLEMAS DE AUDIO Causa: Error del configuración Descripción de la Solución: Se configura permisos en navegador para el uso del micrófono Nombre del Colaborador: Leyla [NOMBRE] Cargo del Colaborador: Agente [NOMBRE]"
+ },
+ {
+  "id": "INC-0130",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON POS STATION - REITERATIVO",
+  "solucion": "Problema Especifico: PROBLEMAS CON POS STATION Causa: Error de sistema Descripción de la Solución: Se realiza mantenimiento a nivel software Nombre del Colaborador: Misael [NOMBRE] Cargo del Colaborador: Asistente de tienda"
+ },
+ {
+  "id": "INC-0131",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA PANTALLA PRODUCCION || No pasan pedidos",
+  "solucion": "Problema Especifico: PROBLEMA PANTALLA PRODUCCION Causa: Error del equipo KDS Descripción de la Solución: Se ajusta cable VGA. Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Gerente de tienda"
+ },
+ {
+  "id": "INC-0132",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON SOFTWARE VPN | NO RECUERDA USUARIO Y CONTRASEÑA",
+  "solucion": "Problema Especifico: PROBLEMAS CON ESCRITORIO REMOTO Causa: Error del conexion por cable desconectado. Descripción de la Solución: Se conecta cable de red a equipo remoto. Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Supervisor BB"
+ },
+ {
+  "id": "INC-0133",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "PROBLEMAS CON AGREGADORES : MENSAJE DE ERROR EN FRMPEDIDOS",
+  "solucion": "Problema Especifico: No imprime boleta Causa: Error de impresora Descripción de la Solución: Se reinstala impresora. Nombre del Colaborador: [NOMBRE] Salizar Cargo del Colaborador: Asistente de tienda"
+ },
+ {
+  "id": "INC-0134",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "Extension_boton_plaza Vea",
+  "solucion": "Problema Especifico: Causa: LOG ATORADO Descripción de la Solución: SE GUARDA EN SU CARPETA SE VALIDA QUE BOLETA SE EMITE Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: FT"
+ },
+ {
+  "id": "INC-0135",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "PROBLEMA CON BOLETAS (NO SALEN EN TICKETERA) - NO CORTA LA IMPRESION DE BOLETA",
+  "solucion": "Problema Especifico: BOLETA NO SE EMITE Causa: ERROR Descripción de la Solución: SE REINICIA APLICACIONES DE CAJA SE REINICIA SERVICIOS SE VALIDA QUE BOLETAS SE EMITEN Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: AT"
+ },
+ {
+  "id": "INC-0136",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "PROBLEMAS CON DOC MANUALES",
+  "solucion": "Problema Especifico: COMANDAS NO SE EMITEN Causa: TICKETERA EN ERROR Descripción de la Solución: SE REINICIA CONEXCIONES SE REINICIA SERVICIOS SE VALIDA QUE COMANDAS SE EMITEN Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: ET"
+ },
+ {
+  "id": "INC-0137",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO - Usuario sap bloqueado",
+  "solucion": "Problema Especifico: POS NO RESPONDE Causa: POS COLGADO Descripción de la Solución: SE REINICIA POS SE VALIDA QUE SE EJECUTE CON NORMALIDAD Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: FT"
+ },
+ {
+  "id": "INC-0138",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "INFORMATIVO -- Regularización Cierre [FECHA]",
+  "solucion": "Problema Especifico: TECLADO NO SE VISUALIZA Causa: SEMAFORO EN ERROR Descripción de la Solución: SE REINICIA SEMAFORO SE VALIDA QUE TECLADO SE VISUALIZA Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: AT"
+ },
+ {
+  "id": "INC-0139",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE TECNICO - PROBLEMAS DE CONEXION A EQUIPO REMOTO",
+  "solucion": "Problema Especifico: PROBLEMAS DE CONEXION A EQUIPO REMOTO Causa: equipo apagado Descripción de la Solución: se reinicia equipo y ya se puede conectar Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: diseño"
+ },
+ {
+  "id": "INC-0140",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SERVIDOR NO CARGA S.O",
+  "solucion": "Problema Especifico: SERVIDOR NO CARGA S.O Causa: Falla de S.O . Descripción de la Solución: Se reinicia equipo y espera 20 min . Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Encargado de tienda"
+ },
+ {
+  "id": "INC-0141",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON COMANDAS",
+  "solucion": "Problema Especifico: comandas no se emiten Causa: TICKETERA EN ERROR Descripción de la Solución: se reinicia conexiones se reinicia servicios se valida que comandas se emiten Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: at"
+ },
+ {
+  "id": "INC-0142",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "PROBLEMAS CON CAJA",
+  "solucion": "Problema Especifico: PROBLEMAS CON CAJA Causa:se valida que estaba cerrado el PixelPoint en la caja Descripción de la Solución: se inicia PixelPoint y ya salen las boletas Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: encargada"
+ },
+ {
+  "id": "INC-0143",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON PEDIDOS PICK UP",
+  "solucion": "Problema Especifico: PROBLEMA CON PEDIDOS PICK UP Causa: Error del sistema Descripción de la Solución: Se reinicia apps y desactiva firewall Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Counter"
+ },
+ {
+  "id": "INC-0144",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON REPORTE DE VENTAS",
+  "solucion": "Problema Especifico: PROBLEMA CON REPORTE DE VENTAS Causa: formato no establecido Descripción de la Solución: se confirua y se instala wps y ya visualiza con normalidad Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: encargada"
+ },
+ {
+  "id": "INC-0145",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON PEDIDOS - PICKUP",
+  "solucion": "Problema Especifico: PEDIDO PICKUP NO SE EMITIO Causa: PEDIDO NO SE INTEGRO Descripción de la Solución: SE REINICIA SERVICIOS SE INDICA A LA TIENDA LO SUCEDIDO Nombre del Colaborador: 122"
+ },
+ {
+  "id": "INC-0146",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON VALE CORPORATIVO - TECLADO",
+  "solucion": "Problema Especifico: teclado no se visualiza Causa: semaforo cerrado Descripción de la Solución: Se inicia semaforo se valida que teclado se visualiza Nombre del Colaborador: stefanny Cargo del Colaborador: counter"
+ },
+ {
+  "id": "INC-0147",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON BOLETAS - NO FIGURA NÂ° DE TIENDA",
+  "solucion": "Problema Especifico: PROBLEMA CON BOLETAS Causa: Error de configuración Descripción de la Solución: Desconocimiento de dato para modificar se indica consulte con supervisor Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Asistente de tienda"
+ },
+ {
+  "id": "INC-0148",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO | PROBLEMA CON CUENTA ABIERTA",
+  "solucion": "Problema Especifico: CUENTA ABIERTA Causa: NO SE PROCESO PAGO Descripción de la Solución: SE PASA CUENTA CON EL MDIO DE PAGO REALIZADO SE VALIDA QUE NO HAYA CUENTA ABIERTA Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: AT"
+ },
+ {
+  "id": "INC-0149",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "PROBLEMAS CON PIXEL",
+  "solucion": "Problema Especifico: PROBLEMAS CON PIXEL Causa: error de conexión de MySQL Descripción de la Solución: se configura servicio se reinicia aplicativos y se realiza venta. Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: encargado de tienda"
+ },
+ {
+  "id": "INC-0150",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON IMPRESORA HP EN QCC ATE",
+  "solucion": "Problema Especifico: PROBLEMAS CON IMPRESORA HP EN QCC ATE Causa: Falta de dispositivo en equipo. Descripción de la Solución: Se realiza instalación de impresora Nombre del Colaborador: [NOMBRE] Cargo del Colaborador: Asistente logistico"
+ },
+ {
+  "id": "INC-0151",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1 APPS CERRADAS",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0152",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0153",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0154",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0155",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0156",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0157",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0158",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0159",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0160",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0161",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0162",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "Pixel Point TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0163",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0164",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0165",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0166",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0167",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0168",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0169",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0170",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "Pixel Point TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0171",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0172",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "Pixel Point TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0173",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0174",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "Pixel Point TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0175",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Caja1",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0176",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - Problemas con aplicativo (error Flil)",
+  "solucion": "Se reinicia aplicativo"
+ },
+ {
+  "id": "INC-0177",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON TICKETERA",
+  "solucion": "SE REINICIA VALIDA"
+ },
+ {
+  "id": "INC-0178",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON COMANDAS-TIENDA TOP",
+  "solucion": "equipo enviado con ticket"
+ },
+ {
+  "id": "INC-0179",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON COMANDAS",
+  "solucion": "e envia equipo tk: http://172.21.200.130/glpi1/glpi/front/ticket.form.php?id="
+ },
+ {
+  "id": "INC-0180",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON BOLETAS",
+  "solucion": "INTERFACE PROCESADA EXITOSAMENTE"
+ },
+ {
+  "id": "INC-0181",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON COMANDAS DE AGREGADORES",
+  "solucion": "caso se escala a supervisores"
+ },
+ {
+  "id": "INC-0182",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON COMANDAS RECORTADAS",
+  "solucion": "Caso se escala a supervisores"
+ },
+ {
+  "id": "INC-0183",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON COMANDAS",
+  "solucion": "Se escala caso a supervisores"
+ },
+ {
+  "id": "INC-0184",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON CAJA",
+  "solucion": "INGRESAMOS A EQUIPO Y VALIDAMOS EJECUCION CORRECTA"
+ },
+ {
+  "id": "INC-0185",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON BOLETA ELECTRONICA",
+  "solucion": "Se escala con supervisores"
+ },
+ {
+  "id": "INC-0186",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON COMANDAS",
+  "solucion": "Se escala el caso con supervisores"
+ },
+ {
+  "id": "INC-0187",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON COMANDAS - NO SALEN",
+  "solucion": "rnse valida q imprime correctamente"
+ },
+ {
+  "id": "INC-0188",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON PixelPoint",
+  "solucion": "Se reiniciaron aplicativos"
+ },
+ {
+  "id": "INC-0189",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON BOLETA",
+  "solucion": "Problema Especifico: SOPORTE REMOTO - PROBLEMAS CON COMANDAS Descripción de la Solución: Se escala con superviores"
+ },
+ {
+  "id": "INC-0190",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON IMPRESION BOLETA",
+  "solucion": "anulado servidor inicio"
+ },
+ {
+  "id": "INC-0191",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON CAJA - COLGADA",
+  "solucion": "Problemas con caja - colgada"
+ },
+ {
+  "id": "INC-0192",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON PixelPoint",
+  "solucion": "Incidente escalado con tk"
+ },
+ {
+  "id": "INC-0193",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON PC ADMINISTRATIVA",
+  "solucion": "enviado con ticket"
+ },
+ {
+  "id": "INC-0194",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PROBLEMAS CON COMANDAS | COCINA1",
+  "solucion": "Se pide q emita venta y comanda salio con normalidad"
+ },
+ {
+  "id": "INC-0195",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON PixelPoint",
+  "solucion": "No precisa herramientas"
+ },
+ {
+  "id": "INC-0196",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "SOPORTE REMOTO| PROBLEMAS CON sistema de gestión",
+  "solucion": "ESALADO A INTERFACE"
+ },
+ {
+  "id": "INC-0197",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "TK INFORMATIVO | PROBLEMAS CON BOLETA",
+  "solucion": "Incidente fue revisado con tk"
+ },
+ {
+  "id": "INC-0198",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON VALES",
+  "solucion": "Se ejecuto monedas se replico Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0199",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON TICKETERA",
+  "solucion": "Se reinicio cola de impresion Problema se soluciono"
+ },
+ {
+  "id": "INC-0200",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON PICKUP",
+  "solucion": "Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0201",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON PIXEL",
+  "solucion": "Se eliminaron temporales Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0202",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON PixelPoint",
+  "solucion": "Se reiniciaron servicios Se replica Se reiniciaron aplicativos Problema se soluciona"
+ },
+ {
+  "id": "INC-0203",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON PIXEL",
+  "solucion": "Se reiniciaron aplicativos Se reinicio cola de impresion Problema se soluciono"
+ },
+ {
+  "id": "INC-0204",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON BOLETAS",
+  "solucion": "Se ejecuto PixelPoint Problema se soluciono"
+ },
+ {
+  "id": "INC-0205",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON SERVIDOR",
+  "solucion": "Se ejecuto PixelPoint Problema se soluciono"
+ },
+ {
+  "id": "INC-0206",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CAJA",
+  "solucion": "Se reinicio caja y problema se soluciono"
+ },
+ {
+  "id": "INC-0207",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CUADRE",
+  "solucion": "Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0208",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CODIGO PIXEL",
+  "solucion": "Se restauro pixel Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0209",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON DELIVERY",
+  "solucion": "Se reinicio aplicativo Problema se soluciono"
+ },
+ {
+  "id": "INC-0210",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON COMANDAS",
+  "solucion": "Se reiniciaron servicios Problema se soluciono"
+ },
+ {
+  "id": "INC-0211",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CAJAS - COLGADAS",
+  "solucion": "Se ejecuto servicio de registro Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0212",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CAJA - COLGADA",
+  "solucion": "Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0213",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "TDA-000 Caja1 APPS CERRADAS",
+  "solucion": "OBSERVACIONES: Se replica Se reiniciaron aplicativos Problema se solcuiono"
+ },
+ {
+  "id": "INC-0214",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMA CON FACTURA (NO SALE TICKET EN CAJA DELIVERY)",
+  "solucion": "OBSERVACIONES: Se reinicio sesion en caja Se abrieron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0215",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMA CON ERROR AL ENVIAR DATOS A PAPERLESS - NO SALEN BOLETAS - CAJA DELIVERY",
+  "solucion": "OBSERVACIONES: Se ejecuto monedas y se replico Problema se soluciono"
+ },
+ {
+  "id": "INC-0216",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "RE: REGULARIZACIÓN DE COLABORADOR",
+  "solucion": "OBSERVACIONES: Se ejecuto monedas y se replico Problema se soluciono"
+ },
+ {
+  "id": "INC-0217",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON AGREGADOR",
+  "solucion": "OBSERVACIONES: Pedidos llegan a tablet pero no salen en caja Se reinicia servicio API local Se reinicia servicio de pasarela Se reinician aplicativos problema se soluciono"
+ },
+ {
+  "id": "INC-0218",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON PIXEL - COLGADO",
+  "solucion": "OBSERVACIONES: Se reiniciaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0219",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CAJA - PANTALLA AZUL",
+  "solucion": "OBSERVACIONES: Se reinicio caja Se ejecutaron aplicativos Problema se soluciono"
+ },
+ {
+  "id": "INC-0220",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON CUENTA ABIERTA",
+  "solucion": "OBSERVACIONES: Se replico Se reinciiaron aplicativos Problema persiste"
+ },
+ {
+  "id": "INC-0221",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "SOPORTE REMOTO - PROBLEMAS CON IMPRESIÓN DE BOLETA",
+  "solucion": "OBSERVACIONES: Se reiniciaron servicios Problema se soluciono"
+ },
+ {
+  "id": "INC-0222",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "PROBLEMAS CON IMP BOLETA: REINICIO DE SERVICIO COLA DE IMPRESIÓN CAJA 2",
+  "solucion": "OBSERVACIONES: Se reinicio cola de impresion Problema se soluciono"
+ },
+ {
+  "id": "INC-0223",
+  "categoria": "Servidor sin conexión",
+  "titulo": "PROBLEMA CON PixelPoint SIN CONEXION EN EL SERVIDOR - SERVICIO MYSQL7 (NO HABILITADO)",
+  "solucion": "Se ejecuta servicio de registro Se replica en servidor Se cierra cuenta abierta Usuario valida solución"
+ },
+ {
+  "id": "INC-0224",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - SERVIDOR SIN CONEXION",
+  "solucion": "Se restaura conexion con servidor y se valida con encargado de [NOMBRE] - AT"
+ },
+ {
+  "id": "INC-0225",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TIENDA SIN CONEXIÓN A INTERNET",
+  "solucion": "Se reestableció conexión y se validó [NOMBRE] - Asistente"
+ },
+ {
+  "id": "INC-0226",
+  "categoria": "Servidor sin conexión",
+  "titulo": "ENLACE SIN CONEXIÓN",
+  "solucion": "Se reestableció conexión a las 10:55"
+ },
+ {
+  "id": "INC-0227",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE POS | SIN CONEXION A INTERNET",
+  "solucion": "se restauro conexion con red wifi"
+ },
+ {
+  "id": "INC-0228",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE SERVIDOR | SIN CONEXION",
+  "solucion": "se restauro conexion y se valido [NOMBRE] - GERENTE DE TIENDA"
+ },
+ {
+  "id": "INC-0229",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE TÉCNICO - PROBLEMAS CON HARDWARE ROUTER | SIN CONEXION",
+  "solucion": "Se inicia aplicativo y se valida funcionamiento"
+ },
+ {
+  "id": "INC-0230",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO | PROBLEMA SERVIDOR || Sin red",
+  "solucion": "Se restaura conexion y se valida con encargado"
+ },
+ {
+  "id": "INC-0231",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 MA [NOMBRE] ENLACE SIN CONEXIÓN",
+  "solucion": "Durante el tiempo de inactividad se validó que la tienda no presente problemas en las ventas de tienda y módulo. -Se trata de reportar incidente con Global Fiber sin éxito -Tras dos horas se restaura conexión con la tienda"
+ },
+ {
+  "id": "INC-0232",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE NOC - CAJAS 2 Y 3 SIN CONEXION",
+  "solucion": "Se realizaron los descartes básicos y se derivó problema a soporte técnico tk"
+ },
+ {
+  "id": "INC-0233",
+  "categoria": "Servidor sin conexión",
+  "titulo": "CAJA 2 Y 3 SIN CONEXIÓN",
+  "solucion": "sigue sin respuesta se mandara correo para que nos indique horario a llamar"
+ },
+ {
+  "id": "INC-0234",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 [NOMBRE] San [NOMBRE] PC ADMIN SIN CONEXIÓN",
+  "solucion": "Se le asigna una IP estática (.200) a la pc admin y se restaura la conexión con el equipo"
+ },
+ {
+  "id": "INC-0235",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 Delivery SIN CONEXIÓN",
+  "solucion": "Se solicita encendido del equipo"
+ },
+ {
+  "id": "INC-0236",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE TECNICO | PROBLEMAS CON PC - SIN CONEXION AL REMOTO",
+  "solucion": "se valida que puede conectarse"
+ },
+ {
+  "id": "INC-0237",
+  "categoria": "Servidor sin conexión",
+  "titulo": "PROBLEMA CON CAJA SIN CONEXION",
+  "solucion": "Sesión del servidor se hallaba cerrada se levanta sistema y se valida con Mellisa que se encuentre operativo"
+ },
+ {
+  "id": "INC-0238",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000-[LOCAL] ENLACE SIN CONEXIÓN",
+  "solucion": "Se restaura conexión con la tienda y se valida el correcto funcionamiento de todos los equipos"
+ },
+ {
+  "id": "INC-0239",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - PROBLEMA CON IMPRESION DE TICKETS",
+  "solucion": "PROBLEMA NO IMPRIME TICKETS - TICKETERA SIN CONEXION • SE REINICIAN APLICATIVOS • SE REINICIAN SERVICIOS • SE RECONECTA COMANDERA • SE VALIDA IMPRESIÓN DE COMANDAS"
+ },
+ {
+  "id": "INC-0240",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - TIENDA SIN CONEXIÓN",
+  "solucion": "se restauro conexion con tienda"
+ },
+ {
+  "id": "INC-0241",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - Problemas con servidor sin conexión",
+  "solucion": "se reestaura conexion y se valida [NOMBRE] - asistente de tienda"
+ },
+ {
+  "id": "INC-0242",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000- [NOMBRE] SERVIDOR SIN CONEXIÓN",
+  "solucion": "SE BRINDA CONTRASEÑA SE EXPLICA VALIDA QUE INGRESA CON NORMALIDAD SE INICIAN APPS DE SERVIDOR CON NORMALIDAD SE REPLICA VALIDA"
+ },
+ {
+  "id": "INC-0243",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 Enlace SIN CONEXIÓN",
+  "solucion": "se reinicia aplicativos se carga y se actualiza terminal se valida con usauria que no presenta inconvenientes"
+ },
+ {
+  "id": "INC-0244",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000-RPPrimavera ENLACE SIN CONEXIÓN",
+  "solucion": "Se restaura conexión con todos los equipos tras retorno de energía"
+ },
+ {
+  "id": "INC-0245",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - PixelPoint SIN CONEXION EN CAJAS",
+  "solucion": "Se informa a usuario que el PixelPoint se apertura primero en servidor. Se apertura aplicativo en servidor y en cajas inician de manera correcta"
+ },
+ {
+  "id": "INC-0246",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE REMOTO - Replicador sin conexión con servidor",
+  "solucion": "Problema Especifico: SOPORTE REMOTO - Replicador sin conexión con servidor Causa: Descripción de la Solución: servidor HO detenido equipo POS revisa y queda solucionado"
+ },
+ {
+  "id": "INC-0247",
+  "categoria": "Servidor sin conexión",
+  "titulo": "SOPORTE NOC -- SERVIDOR SIN CONEXION",
+  "solucion": "Equipo reinciado por tienda -Se valida reconexión tras unos minutos"
+ }
+]

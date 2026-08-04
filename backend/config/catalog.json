@@ -1,0 +1,16 @@
+{
+  "empresas": [
+    { "slug": "sazon_peruano", "nombre": "Sazón Peruano" },
+    { "slug": "el_fogon_criollo", "nombre": "El Fogón Criollo" },
+    { "slug": "brasa_nortena", "nombre": "Brasa Norteña" },
+    { "slug": "mar_y_lena", "nombre": "Mar y Leña" },
+    { "slug": "don_ceviche", "nombre": "Don Ceviche" }
+  ],
+  "sedes": [
+    { "slug": "centro", "nombre": "Centro" },
+    { "slug": "norte", "nombre": "Norte" },
+    { "slug": "sur", "nombre": "Sur" },
+    { "slug": "este", "nombre": "Este" },
+    { "slug": "plaza", "nombre": "Plaza" }
+  ]
+}

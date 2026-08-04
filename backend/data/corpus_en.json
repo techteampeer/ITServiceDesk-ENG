@@ -1,0 +1,1484 @@
+[
+ {
+  "id": "INC-0001",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | KITCHEN ORDER ISSUE || Service restart",
+  "solucion": "Connection to Printers control is checked. The kitchen-order service is restarted. The e-invoicing service is restarted. The print queue service is restarted. A test page is printed. A test order is placed. User confirms kitchen orders print correctly."
+ },
+ {
+  "id": "INC-0002",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0003",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "TECHNICAL SUPPORT - KITCHEN PRINTER HARDWARE ISSUE kitchen printer | NOT PRINTING",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0004",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "VENDOR VALIDATION",
+  "solucion": "Connection to Printers control is checked. The kitchen-order service is restarted. The e-invoicing service is restarted. The print queue service is restarted. A test page is printed. A test order is placed. User confirms kitchen orders print correctly."
+ },
+ {
+  "id": "INC-0005",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "INTERFACES TEAM | INTERFACE ISSUES AT TDA-000 ON [FECHA] - SALE FROZEN",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0006",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0007",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - RECEIPT PRINTING ISSUE",
+  "solucion": "• kitchen-order service restarted • e-invoicing service restarted • print queue restarted • local API restarted • gateway service restarted • user confirms receipt printing in queue"
+ },
+ {
+  "id": "INC-0008",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - RECEIPT PRINTING ISSUES",
+  "solucion": "The application is reopened on startup; it is confirmed that payment slips and the register close-out print correctly."
+ },
+ {
+  "id": "INC-0009",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - KITCHEN ORDER PRINTING ISSUE",
+  "solucion": "kitchen-order service restarted, e-invoicing service restarted, print queue restarted, local API restarted, gateway service restarted, user confirms kitchen-order printing in queue"
+ },
+ {
+  "id": "INC-0010",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | ISSUE",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0011",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing [NOMBRE] 134",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms the receipt printer works correctly."
+ },
+ {
+  "id": "INC-0012",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT -- Kitchen order printing issues",
+  "solucion": "Kitchen-order service was disabled at [NOMBRE]. The kitchen-order service is enabled and services are restarted. Kitchen orders are confirmed to print correctly."
+ },
+ {
+  "id": "INC-0013",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | RECEIPT ISSUE || Queue restart",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0014",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing [NOMBRE] TDA-000",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0015",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing [NOMBRE] BB-99",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0016",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "TECHNICAL SUPPORT - ROUTER HARDWARE ISSUES | OFFLINE",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0017",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "TECHNICAL SUPPORT - KITCHEN PRINTER HARDWARE ISSUE | NOT PRINTING",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0018",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "TDA-000 Delivery",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0019",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "CALLBACK || Receipt printing issue",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0020",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "CALLBACK || Receipt printing issue [NOMBRE] TDA-000",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms the receipt printer works correctly."
+ },
+ {
+  "id": "INC-0021",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - DELIVERY RECEIPT PRINTING ISSUE",
+  "solucion": "ticket duplicated with ticket 502619"
+ },
+ {
+  "id": "INC-0022",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing [NOMBRE] BB-63",
+  "solucion": "DISCARDED. Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0023",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - KITCHEN ORDER PRINTING ISSUES",
+  "solucion": "It is confirmed the issue is caused by kitchen printer ncr3. The print queue is restarted. User confirms the fix."
+ },
+ {
+  "id": "INC-0024",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "REMOTE SUPPORT - NAC AGENT INSTALLATION",
+  "solucion": "Connection to Printers control is checked. The kitchen-order service is restarted. The e-invoicing service is restarted. The print queue service is restarted. A test page is printed. A test order is placed. User confirms kitchen orders print correctly."
+ },
+ {
+  "id": "INC-0025",
+  "categoria": "Impresión de boletas y comandas",
+  "titulo": "ISSUE WITH SAP LOCKED",
+  "solucion": "Connection to EdgePort is checked. The print queue service is restarted. A test page is printed. A test order is placed. User confirms receipts print normally."
+ },
+ {
+  "id": "INC-0026",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0027",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "TDA-000 Server APPS CLOSED",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0028",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0029",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0030",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0031",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0032",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0033",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0034",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0035",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0036",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0037",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0038",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0039",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0040",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0041",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0042",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000-[NOMBRE] -Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0043",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0044",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0045",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0046",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0047",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0048",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Server",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0049",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "REMOTE SUPPORT | SCHEDULING SYSTEM ISSUE || User Locked Out",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0050",
+  "categoria": "Inicio de aplicativo / servidor",
+  "titulo": "PixelPoint TDA-000 Delivery",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0051",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "SALES CROSS-CHECK",
+  "solucion": "The team responsible for splitting the amounts is informed."
+ },
+ {
+  "id": "INC-0052",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "MISSING RECIPE DOWNLOAD [LOCAL] [FECHA]",
+  "solucion": "It is confirmed the download completed."
+ },
+ {
+  "id": "INC-0053",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT | INTERNET LINK ISSUE",
+  "solucion": "Windows Firewall was blocking monitoring. The firewall is disabled and reconnection is confirmed."
+ },
+ {
+  "id": "INC-0054",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "INTERFACE PROCESS management system",
+  "solucion": "management system PROCESSED SUCCESSFULLY"
+ },
+ {
+  "id": "INC-0055",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "Interface not processing nor downloading sales data",
+  "solucion": "END OF DAY WAS RUN. management system PROCESSED SUCCESSFULLY"
+ },
+ {
+  "id": "INC-0056",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "RE: [NGR] Password change",
+  "solucion": "Specific issue: Trouble logging into the application (management system)/214. Cause: Too many failed attempts/Forgotten password. Solution: 1. The password is unlocked. 2. Correct login to the application is confirmed."
+ },
+ {
+  "id": "INC-0057",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "CANNOT PERFORM TRANSFER",
+  "solucion": "THEY ARE TOLD TO REPORT IT TO INTERNAL CONTROL"
+ },
+ {
+  "id": "INC-0058",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - REGISTER RUNNING SLOW",
+  "solucion": "Temporary files are cleared. User confirms the fix."
+ },
+ {
+  "id": "INC-0059",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT | register app issue || kitchen-order service not started",
+  "solucion": "The printing service is started, services are restarted, it is confirmed with the user, and the case is closed as resolved."
+ },
+ {
+  "id": "INC-0060",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - VPN ISSUES",
+  "solucion": "The VPN application is restarted. Reconnection is confirmed with [NOMBRE] - Counter."
+ },
+ {
+  "id": "INC-0061",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT | CORPORATE VOUCHER ISSUE",
+  "solucion": "Open applications on the server are checked. Currency is restarted on the server. The server is replicated. The register service is run at the register. Register applications are started. A test order is placed. User confirms they can now enter vouchers."
+ },
+ {
+  "id": "INC-0062",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - PixelPoint ISSUES",
+  "solucion": "TEMPORARY FIX. The register service is run. Temporary files are cleared. Applications are started as [NOMBRE]. User confirms and is told to contact the Help Desk if the incident recurs."
+ },
+ {
+  "id": "INC-0063",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "FWD: SAP ERROR WHEN POSTING C.I [FECHA]",
+  "solucion": "The store is told to report the incident to internal control."
+ },
+ {
+  "id": "INC-0064",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "TDA-000 PCAdmin",
+  "solucion": "The Nagios monitoring service was stopped; the service is started and correct operation is confirmed."
+ },
+ {
+  "id": "INC-0065",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - DOMAIN LOCKED",
+  "solucion": "The password was reset and given to the user. It is confirmed the user logs into the domain correctly."
+ },
+ {
+  "id": "INC-0066",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "ISSUE PROCESSING SALE IN management system - ERROR MESSAGE: JDBC CONNECTION",
+  "solucion": "THE SET GLOBAL COMMAND WAS RUN, THE JBL ERROR NO LONGER APPEARS"
+ },
+ {
+  "id": "INC-0067",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - SAP user locked out",
+  "solucion": "The user password was reset. It is confirmed the user logs into SAP correctly: DD6176."
+ },
+ {
+  "id": "INC-0068",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "REMOTE SUPPORT - Interface issue, question left unanswered",
+  "solucion": "Interface issue, question left unanswered. It is confirmed interfaces are processed correctly."
+ },
+ {
+  "id": "INC-0069",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "PERU - Global Polling Notification",
+  "solucion": "It is confirmed PixelPoint is running in the background. It is closed from [NOMBRE]. PixelPoint is started normally. User confirms the fix."
+ },
+ {
+  "id": "INC-0070",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "Opening TESTS: [MARCA] - [NOMBRE] - [NOMBRE]",
+  "solucion": "DATE AND TIME ARE CONFIRMED CORRECT AT THE REGISTER AND ON THE SERVER. THE DAY IS STARTED. THE OPENING DATE IS CONFIRMED CORRECT [FECHA]-24."
+ },
+ {
+  "id": "INC-0071",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "ESCALATED - INTERFACE ISSUES [FECHA]",
+  "solucion": "Connection was restored and confirmed with the store manager."
+ },
+ {
+  "id": "INC-0072",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "INFORMATIONAL TICKET - SAP ISSUES",
+  "solucion": "FIX: Applications are started, interfaces are reprocessed, resolution is confirmed."
+ },
+ {
+  "id": "INC-0073",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "RE: ISSUES RECORDING TRANSACTIONS",
+  "solucion": "FIX: The account is unlocked and SAP access is confirmed."
+ },
+ {
+  "id": "INC-0074",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "ISSUE WITH REGISTER 1 - CONSTANTLY RESTARTING",
+  "solucion": "The MySQL service is restarted. The register service is run. Applications are restarted. User confirms."
+ },
+ {
+  "id": "INC-0075",
+  "categoria": "Avisos operativos e informativos",
+  "titulo": "TECHNICAL SUPPORT - SERVER HARDWARE ISSUES | APPS NOT STARTED",
+  "solucion": "REPLICATION IS RUN. THE kitchen-order service, e-invoicing service, local API AND PRINT QUEUE, and register service ARE RESTARTED AT REGISTER 1. APPLICATIONS ARE STARTED. THEY ARE TOLD TO CONFIRM WITH THE NEXT AGGREGATOR ORDER."
+ },
+ {
+  "id": "INC-0076",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH CORPORATE VOUCHERS (VOUCHER ENTRY SCREEN NOT APPEARING)",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0077",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH REGISTER CLOSE-OUT - AMOUNT ENTRY SCREEN NOT SHOWING - PixelPoint CLOSED",
+  "solucion": "Receipt printer was misconfigured. It is reinitialized with the user's help. It is confirmed pending receipts print once the printer is reinitialized."
+ },
+ {
+  "id": "INC-0078",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "Issue with Detailed Register Close-out TDA-000 La [NOMBRE]",
+  "solucion": "The case was escalated to supervisors."
+ },
+ {
+  "id": "INC-0079",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT - PixelPoint APPLICATION ISSUE - PRINT QUEUE",
+  "solucion": "THE PRINT QUEUE IS RESTARTED"
+ },
+ {
+  "id": "INC-0080",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | KITCHEN ORDER ISSUE",
+  "solucion": "no response was received from the store"
+ },
+ {
+  "id": "INC-0081",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE || Receipt not printing",
+  "solucion": "The kitchen-order printing service was restarted."
+ },
+ {
+  "id": "INC-0082",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | DELIVERY ISSUE - REGISTER",
+  "solucion": "STARTS CORRECTLY"
+ },
+ {
+  "id": "INC-0083",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH RECEIPTS (NOT PRINTING AT RECEIPT PRINTER)",
+  "solucion": "The network adapter was disabled. It is enabled and the connection is restored. Connection is confirmed with [NOMBRE] - Full time."
+ },
+ {
+  "id": "INC-0084",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH PENDING MANUAL DOCUMENTS SCREEN // DID NOT APPEAR IN THE SYSTEM",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0085",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH WEB PICKUP (NOT SHOWING IN THE SYSTEM)",
+  "solucion": "NOTES: Currency routine was run. Replication was run. Issue persists."
+ },
+ {
+  "id": "INC-0086",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH AGGREGATOR REGISTER (RECEIPTS NOT PRINTING) - PRINT QUEUE",
+  "solucion": "CONFIRMED VIA TICKET [TICKET_URL]"
+ },
+ {
+  "id": "INC-0087",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH REGISTER CLOSE-OUT - ERROR MESSAGE IN PixelPoint SYSTEM",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0088",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH EMPLOYEE'S REGISTER CLOSE-OUT",
+  "solucion": "the procedure is explained to the user"
+ },
+ {
+  "id": "INC-0089",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | REGISTER ISSUE - FROZEN",
+  "solucion": "IT IS CONFIRMED THE REGISTER HAS NOT FROZEN SO FAR"
+ },
+ {
+  "id": "INC-0090",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | OPERATING SYSTEM ISSUE - REGISTER",
+  "solucion": "IT IS CONFIRMED IT STARTS NORMALLY"
+ },
+ {
+  "id": "INC-0091",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | POS ISSUE - REGISTER",
+  "solucion": "It is confirmed the POS starts correctly."
+ },
+ {
+  "id": "INC-0092",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT - DELIVERY ORDER ISSUE",
+  "solucion": "the order is pushed through to stage 1 and now displays correctly"
+ },
+ {
+  "id": "INC-0093",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT - PRINTER ISSUE",
+  "solucion": "THE PRINT QUEUE IS RESTARTED, THE HP PRINTER IS RESTARTED"
+ },
+ {
+  "id": "INC-0094",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "TECHNICAL SUPPORT - RECEIPT PRINTER ISSUE - NOT PRINTING",
+  "solucion": "THE PRINT QUEUE IS CHECKED, FOUND PAUSED; THE PAUSE IS REMOVED; QUEUED RECEIPTS ARE PRINTED"
+ },
+ {
+  "id": "INC-0095",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT - PixelPoint APPLICATION ISSUE - VOUCHERS",
+  "solucion": "REPLICATES NORMALLY"
+ },
+ {
+  "id": "INC-0096",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | POS ISSUE",
+  "solucion": "THE USER IS HELPED WITH THE POS THAT WAS NOT LOADING AT THE REGISTER"
+ },
+ {
+  "id": "INC-0097",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "ISSUE WITH KEYBOARD (NOT RESPONDING) - REGISTER 1",
+  "solucion": "NO RESPONSE FROM THE STORE"
+ },
+ {
+  "id": "INC-0098",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | PixelPoint ISSUE - REGISTER",
+  "solucion": "Specific issue"
+ },
+ {
+  "id": "INC-0099",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT | END-OF-DAY ISSUE",
+  "solucion": "END OF DAY IS RUN"
+ },
+ {
+  "id": "INC-0100",
+  "categoria": "Falla de dispositivo POS / periférico",
+  "titulo": "REMOTE SUPPORT - PixelPoint APPLICATION ISSUES REGISTERS 1 AND 2 | CLOSE-OUT SCREEN NOT APPEARING",
+  "solucion": "TEMP WAS CONFIGURED"
+ },
+ {
+  "id": "INC-0101",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB (CANNOT CANCEL)",
+  "solucion": "PASSWORD IS RESET"
+ },
+ {
+  "id": "INC-0102",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUES WITH OPEN TAB",
+  "solucion": "Open tab [NOMBRE]"
+ },
+ {
+  "id": "INC-0103",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - Cancellation left the tab open",
+  "solucion": "The open tab is closed via fix. It is confirmed the user correctly cancels the tab."
+ },
+ {
+  "id": "INC-0104",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB",
+  "solucion": "Tab [NOMBRE] and applications restarted"
+ },
+ {
+  "id": "INC-0105",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT | OPEN TAB ISSUE",
+  "solucion": "It is confirmed the open tab cannot be closed as a store-level operation. The tab is closed on the server. User confirms the fix."
+ },
+ {
+  "id": "INC-0106",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - MORPHO DEVICE ISSUES",
+  "solucion": "Open-tab cancellation was not completed"
+ },
+ {
+  "id": "INC-0107",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "USER GUIDANCE -- OPEN TAB",
+  "solucion": "USER GUIDANCE -- OPEN TAB"
+ },
+ {
+  "id": "INC-0108",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - PIXEL APPLICATION ISSUES REGISTER 1 | OPEN TAB",
+  "solucion": "TAB IS CLOSED, CANCELLATION PERFORMED, CONFIRMED"
+ },
+ {
+  "id": "INC-0109",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - OPEN TAB",
+  "solucion": "The server is replicated. Currency is restarted. The open tab is closed. User confirms the fix."
+ },
+ {
+  "id": "INC-0110",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - OPEN TAB ISSUES",
+  "solucion": "The open tab is closed. User confirms."
+ },
+ {
+  "id": "INC-0111",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB (CANNOT CANCEL) - REGISTER 1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0112",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT | OPEN TAB ISSUE || [NOMBRE] TDA-000",
+  "solucion": "It is confirmed the open tab cannot be closed as a store-level operation. The tab is closed on the server. User confirms the fix."
+ },
+ {
+  "id": "INC-0113",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - OPEN TAB ISSUE",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0114",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - PixelPoint APPLICATION ISSUE - OPEN TAB",
+  "solucion": "THE APPLICATION IS RESTARTED"
+ },
+ {
+  "id": "INC-0115",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB (CANNOT CANCEL) - REGISTER 2",
+  "solucion": "the bar receipt printer is reinstalled"
+ },
+ {
+  "id": "INC-0116",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT | OPEN TAB ISSUE",
+  "solucion": "duplicate ticket"
+ },
+ {
+  "id": "INC-0117",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT| OPEN TAB ISSUES",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0118",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT - OPEN TAB ISSUE",
+  "solucion": "the tab is closed; it is confirmed the close-out now runs normally"
+ },
+ {
+  "id": "INC-0119",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB (CANNOT CANCEL) AT [NOMBRE]",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0120",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "()",
+  "solucion": "the open tab could not be canceled; it is reloaded, the server is replicated, restarted with the register service; a test confirms the tab can now be canceled and the case is closed as resolved"
+ },
+ {
+  "id": "INC-0121",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT| PixelPoint ISSUES -OPEN TAB",
+  "solucion": "THE APPLICATION IS ACCESSED DUE TO THE OPEN TAB; THE TAB IS CONFIRMED CLOSED"
+ },
+ {
+  "id": "INC-0122",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "REMOTE SUPPORT| PixelPoint ISSUES OPEN TAB",
+  "solucion": "THE USER IS NOTIFIED ABOUT THE OPEN TAB; SHE CONFIRMS THE TAB IS CLOSED AND CANCELS IT"
+ },
+ {
+  "id": "INC-0123",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "USER GUIDANCE -- OPEN TAB, INCORRECT PAYMENT",
+  "solucion": "USER GUIDANCE -- OPEN TAB, Amex Pin Pad payment method. The transaction is released so the user can use it."
+ },
+ {
+  "id": "INC-0124",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB - CANNOT CANCEL - REGISTER 1",
+  "solucion": "CALLBACK MADE, USER DOES NOT ANSWER"
+ },
+ {
+  "id": "INC-0125",
+  "categoria": "Cuenta abierta / anulación de orden",
+  "titulo": "ISSUE WITH OPEN TAB (CANNOT CANCEL) AT [NOMBRE] BB 259 SNACK",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0126",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | PixelPoint ISSUE - SERVER",
+  "solucion": "Specific issue: PixelPoint CONNECTION ERROR. Cause: SERVER APPLICATIONS CLOSED. Solution: SERVER APPLICATIONS ARE STARTED, PixelPoint IS STARTED, CORRECT STARTUP IS CONFIRMED. Employee name: [NOMBRE]"
+ },
+ {
+  "id": "INC-0127",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | RECEIPT ISSUE - REGISTER",
+  "solucion": "Specific issue: RECEIPTS NOT BEING ISSUED. Cause: QUEUE STUCK. Solution: SERVICES ARE RESTARTED, RECEIPT ISSUANCE IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Store Associate"
+ },
+ {
+  "id": "INC-0128",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | ORDER ISSUE - PICKUP",
+  "solucion": "Specific issue: PICKUP RECEIPT NOT ISSUED. Cause: --. Solution: SERVICES ARE RESTARTED, REGISTER APPLICATIONS ARE RESTARTED, RECEIPT ISSUANCE IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Store Associate"
+ },
+ {
+  "id": "INC-0129",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT - AUDIO ISSUES",
+  "solucion": "Specific issue: AUDIO ISSUES. Cause: Configuration error. Solution: Browser permissions are configured for microphone use. Employee name: [NOMBRE]. Employee role: Agent [NOMBRE]"
+ },
+ {
+  "id": "INC-0130",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT - POS STATION ISSUES - RECURRING",
+  "solucion": "Specific issue: POS STATION ISSUES. Cause: System error. Solution: Software-level maintenance is performed. Employee name: [NOMBRE]. Employee role: Store Assistant"
+ },
+ {
+  "id": "INC-0131",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | KITCHEN DISPLAY ISSUE || Orders not coming through",
+  "solucion": "Specific issue: KITCHEN DISPLAY ISSUE. Cause: KDS device error. Solution: The VGA cable is adjusted. Employee name: [NOMBRE]. Employee role: Store Manager"
+ },
+ {
+  "id": "INC-0132",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "TECHNICAL SUPPORT - VPN SOFTWARE ISSUES | CAN'T REMEMBER USERNAME AND PASSWORD",
+  "solucion": "Specific issue: REMOTE DESKTOP ISSUES. Cause: Connection error due to unplugged cable. Solution: Network cable is connected to the remote device. Employee name: [NOMBRE]. Employee role: Supervisor BB"
+ },
+ {
+  "id": "INC-0133",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "ISSUES WITH AGGREGATORS: ERROR MESSAGE IN FRMPEDIDOS",
+  "solucion": "Specific issue: Receipt not printing. Cause: Printer error. Solution: The printer is reinstalled. Employee name: [NOMBRE]. Employee role: Store Assistant"
+ },
+ {
+  "id": "INC-0134",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "Extension_button_plaza Vea",
+  "solucion": "Specific issue: --. Cause: LOG STUCK. Solution: IT IS SAVED TO ITS FOLDER, RECEIPT ISSUANCE IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Full Time"
+ },
+ {
+  "id": "INC-0135",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "ISSUE WITH RECEIPTS (NOT PRINTING) - RECEIPT DOESN'T CUT",
+  "solucion": "Specific issue: RECEIPT NOT ISSUED. Cause: ERROR. Solution: REGISTER APPLICATIONS ARE RESTARTED, SERVICES ARE RESTARTED, RECEIPT ISSUANCE IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Store Associate"
+ },
+ {
+  "id": "INC-0136",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "ISSUES WITH MANUAL DOCUMENTS",
+  "solucion": "Specific issue: KITCHEN ORDERS NOT BEING ISSUED. Cause: RECEIPT PRINTER IN ERROR STATE. Solution: CONNECTIONS ARE RESTARTED, SERVICES ARE RESTARTED, KITCHEN ORDER ISSUANCE IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Evening Shift"
+ },
+ {
+  "id": "INC-0137",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT - SAP user locked out",
+  "solucion": "Specific issue: POS NOT RESPONDING. Cause: POS FROZEN. Solution: THE POS IS RESTARTED, NORMAL OPERATION IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Full Time"
+ },
+ {
+  "id": "INC-0138",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "INFORMATIONAL -- Close-out Regularization [FECHA]",
+  "solucion": "Specific issue: KEYBOARD NOT DISPLAYING. Cause: STATUS INDICATOR IN ERROR STATE. Solution: THE STATUS INDICATOR IS RESTARTED, KEYBOARD DISPLAY IS CONFIRMED. Employee name: [NOMBRE]. Employee role: Store Associate"
+ },
+ {
+  "id": "INC-0139",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "TECHNICAL SUPPORT - REMOTE DEVICE CONNECTION ISSUES",
+  "solucion": "Specific issue: REMOTE DEVICE CONNECTION ISSUES. Cause: device powered off. Solution: the device is restarted and connection is now possible. Employee name: [NOMBRE]. Employee role: Design"
+ },
+ {
+  "id": "INC-0140",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "SERVER WON'T LOAD OS",
+  "solucion": "Specific issue: SERVER WILL NOT LOAD OS. Cause: OS failure. Solution: The device is restarted and left for 20 minutes. Employee name: [NOMBRE]. Employee role: Store Manager"
+ },
+ {
+  "id": "INC-0141",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | KITCHEN ORDER ISSUE",
+  "solucion": "Specific issue: kitchen orders not being issued. Cause: RECEIPT PRINTER IN ERROR STATE. Solution: connections are restarted, services are restarted, kitchen order issuance is confirmed. Employee name: [NOMBRE]. Employee role: store associate"
+ },
+ {
+  "id": "INC-0142",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REGISTER ISSUES",
+  "solucion": "Specific issue: REGISTER ISSUES. Cause: it is confirmed PixelPoint was closed at the register. Solution: PixelPoint is started and receipts now print. Employee name: [NOMBRE]. Employee role: manager"
+ },
+ {
+  "id": "INC-0143",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT - PICKUP ORDER ISSUE",
+  "solucion": "Specific issue: PICKUP ORDER ISSUE. Cause: System error. Solution: Apps are restarted and the firewall is disabled. Employee name: [NOMBRE]. Employee role: Counter"
+ },
+ {
+  "id": "INC-0144",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | SALES REPORT ISSUE",
+  "solucion": "Specific issue: SALES REPORT ISSUE. Cause: format not set. Solution: it is configured and WPS is installed; it now displays normally. Employee name: [NOMBRE]. Employee role: manager"
+ },
+ {
+  "id": "INC-0145",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | ORDER ISSUE - PICKUP",
+  "solucion": "Specific issue: PICKUP ORDER WAS NOT ISSUED. Cause: ORDER DID NOT SYNC. Solution: SERVICES ARE RESTARTED, THE STORE IS INFORMED OF WHAT HAPPENED. Employee ID: 122"
+ },
+ {
+  "id": "INC-0146",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | CORPORATE VOUCHER ISSUE - KEYBOARD",
+  "solucion": "Specific issue: keyboard not displaying. Cause: status indicator closed. Solution: The status indicator is started, keyboard display is confirmed. Employee name: [NOMBRE]. Employee role: counter"
+ },
+ {
+  "id": "INC-0147",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | RECEIPT ISSUE - STORE NUMBER MISSING",
+  "solucion": "Specific issue: RECEIPT ISSUE. Cause: Configuration error. Solution: The data needed for the change is unknown; the user is told to check with their supervisor. Employee name: [NOMBRE]. Employee role: Store Assistant"
+ },
+ {
+  "id": "INC-0148",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT | OPEN TAB ISSUE",
+  "solucion": "Specific issue: OPEN TAB. Cause: PAYMENT NOT PROCESSED. Solution: THE TAB IS CLOSED WITH THE PAYMENT METHOD USED, IT IS CONFIRMED NO TAB REMAINS OPEN. Employee name: [NOMBRE]. Employee role: Store Associate"
+ },
+ {
+  "id": "INC-0149",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "ISSUES WITH PIXEL",
+  "solucion": "Specific issue: PIXEL ISSUES. Cause: MySQL connection error. Solution: the service is configured, applications are restarted, and a sale is completed. Employee name: [NOMBRE]. Employee role: store manager"
+ },
+ {
+  "id": "INC-0150",
+  "categoria": "Registro de datos en ticket",
+  "titulo": "REMOTE SUPPORT - HP PRINTER ISSUES AT QCC ATE",
+  "solucion": "Specific issue: HP PRINTER ISSUES AT QCC ATE. Cause: Device missing on the machine. Solution: The printer is installed. Employee name: [NOMBRE]. Employee role: Logistics Assistant"
+ },
+ {
+  "id": "INC-0151",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1 APPS CLOSED",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0152",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0153",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0154",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0155",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0156",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0157",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0158",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0159",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0160",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0161",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0162",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0163",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0164",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0165",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0166",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0167",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0168",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0169",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0170",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0171",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0172",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0173",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0174",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0175",
+  "categoria": "Inicio de aplicativo en caja",
+  "titulo": "PixelPoint TDA-000 Register1",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0176",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - Application issues (Flil error)",
+  "solucion": "The application is restarted."
+ },
+ {
+  "id": "INC-0177",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - RECEIPT PRINTER ISSUES",
+  "solucion": "RESTARTED, CONFIRMED"
+ },
+ {
+  "id": "INC-0178",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - KITCHEN ORDER ISSUES-TOP STORE",
+  "solucion": "device sent in with ticket"
+ },
+ {
+  "id": "INC-0179",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT| KITCHEN ORDER ISSUES",
+  "solucion": "device sent, ticket: [TICKET_URL]"
+ },
+ {
+  "id": "INC-0180",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - RECEIPT ISSUES",
+  "solucion": "INTERFACE PROCESSED SUCCESSFULLY"
+ },
+ {
+  "id": "INC-0181",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - AGGREGATOR KITCHEN ORDER ISSUES",
+  "solucion": "the case is escalated to supervisors"
+ },
+ {
+  "id": "INC-0182",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - TRUNCATED KITCHEN ORDER ISSUES",
+  "solucion": "The case is escalated to supervisors."
+ },
+ {
+  "id": "INC-0183",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - KITCHEN ORDER ISSUES",
+  "solucion": "The case is escalated to supervisors."
+ },
+ {
+  "id": "INC-0184",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REGISTER ISSUES",
+  "solucion": "WE ACCESS THE DEVICE AND CONFIRM CORRECT OPERATION"
+ },
+ {
+  "id": "INC-0185",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - E-INVOICE ISSUES",
+  "solucion": "Escalated to supervisors."
+ },
+ {
+  "id": "INC-0186",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "KITCHEN ORDER ISSUES",
+  "solucion": "The case is escalated to supervisors."
+ },
+ {
+  "id": "INC-0187",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "KITCHEN ORDER ISSUES - NOT PRINTING",
+  "solucion": "confirmed it prints correctly"
+ },
+ {
+  "id": "INC-0188",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "PixelPoint ISSUES",
+  "solucion": "Applications were restarted."
+ },
+ {
+  "id": "INC-0189",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT| RECEIPT ISSUES",
+  "solucion": "Specific issue: REMOTE SUPPORT - KITCHEN ORDER ISSUES. Solution: Escalated to supervisors."
+ },
+ {
+  "id": "INC-0190",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT| RECEIPT PRINTING ISSUES",
+  "solucion": "canceled, server started"
+ },
+ {
+  "id": "INC-0191",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REGISTER ISSUES - FROZEN",
+  "solucion": "Register issues - frozen"
+ },
+ {
+  "id": "INC-0192",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - PixelPoint ISSUES",
+  "solucion": "Incident escalated with ticket"
+ },
+ {
+  "id": "INC-0193",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - ADMIN PC ISSUES",
+  "solucion": "sent with ticket"
+ },
+ {
+  "id": "INC-0194",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "KITCHEN ORDER ISSUES | KITCHEN1",
+  "solucion": "A sale is requested and the kitchen order printed normally."
+ },
+ {
+  "id": "INC-0195",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT - PixelPoint ISSUES",
+  "solucion": "No tools required"
+ },
+ {
+  "id": "INC-0196",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "REMOTE SUPPORT| management system ISSUES",
+  "solucion": "ESCALATED TO INTERFACE TEAM"
+ },
+ {
+  "id": "INC-0197",
+  "categoria": "Fallas de aplicativo (comandas / boletas)",
+  "titulo": "INFORMATIONAL TICKET | RECEIPT ISSUES",
+  "solucion": "Incident was reviewed with ticket"
+ },
+ {
+  "id": "INC-0198",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH VOUCHERS",
+  "solucion": "Currency routine was run, replication was run, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0199",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH RECEIPT PRINTER",
+  "solucion": "The print queue was restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0200",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH PICKUP",
+  "solucion": "Applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0201",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH PIXEL",
+  "solucion": "Temporary files were cleared, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0202",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REMOTE SUPPORT - PixelPoint ISSUES",
+  "solucion": "Services were restarted, replication was run, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0203",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REMOTE SUPPORT - PIXEL ISSUES",
+  "solucion": "Applications were restarted, the print queue was restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0204",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH RECEIPTS",
+  "solucion": "PixelPoint was run. Issue resolved."
+ },
+ {
+  "id": "INC-0205",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH SERVER",
+  "solucion": "PixelPoint was run. Issue resolved."
+ },
+ {
+  "id": "INC-0206",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REGISTER ISSUES",
+  "solucion": "The register was restarted and the issue resolved."
+ },
+ {
+  "id": "INC-0207",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH CASH RECONCILIATION",
+  "solucion": "Applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0208",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH PIXEL CODE",
+  "solucion": "Pixel was restored, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0209",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH DELIVERY",
+  "solucion": "The application was restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0210",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REMOTE SUPPORT - KITCHEN ORDER ISSUES",
+  "solucion": "Services were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0211",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REGISTER ISSUES - FROZEN",
+  "solucion": "The register service was run, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0212",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REGISTER ISSUES - FROZEN",
+  "solucion": "Applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0213",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "TDA-000 Register1 APPS CLOSED",
+  "solucion": "NOTES: Replication was run, applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0214",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUE WITH INVOICE (NO RECEIPT AT DELIVERY REGISTER)",
+  "solucion": "NOTES: The register session was restarted, applications were opened. Issue resolved."
+ },
+ {
+  "id": "INC-0215",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUE SENDING DATA TO PAPERLESS - RECEIPTS NOT PRINTING - DELIVERY REGISTER",
+  "solucion": "NOTES: Currency routine was run and replicated. Issue resolved."
+ },
+ {
+  "id": "INC-0216",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "RE: EMPLOYEE'S RECORD REGULARIZATION",
+  "solucion": "NOTES: Currency routine was run and replicated. Issue resolved."
+ },
+ {
+  "id": "INC-0217",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH AGGREGATOR",
+  "solucion": "NOTES: Orders arrive on the tablet but do not reach the register. The local API service is restarted, the gateway service is restarted, applications are restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0218",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH PIXEL - FROZEN",
+  "solucion": "NOTES: Applications were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0219",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REGISTER ISSUES - BLUE SCREEN",
+  "solucion": "NOTES: The register was restarted, applications were run. Issue resolved."
+ },
+ {
+  "id": "INC-0220",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "ISSUES WITH OPEN TAB",
+  "solucion": "NOTES: Replication was run, applications were restarted. Issue persists."
+ },
+ {
+  "id": "INC-0221",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "REMOTE SUPPORT - RECEIPT PRINTING ISSUES",
+  "solucion": "NOTES: Services were restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0222",
+  "categoria": "Aplicativo restablecido por reinicio",
+  "titulo": "RECEIPT PRINTING ISSUES: PRINT QUEUE SERVICE RESTART REGISTER 2",
+  "solucion": "NOTES: The print queue was restarted. Issue resolved."
+ },
+ {
+  "id": "INC-0223",
+  "categoria": "Servidor sin conexión",
+  "titulo": "ISSUE WITH PixelPoint - NO CONNECTION ON THE SERVER - MYSQL7 SERVICE (NOT ENABLED)",
+  "solucion": "The register service is run. The server is replicated. The open tab is closed. User confirms the fix."
+ },
+ {
+  "id": "INC-0224",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - SERVER OFFLINE",
+  "solucion": "Connection to the server is restored and confirmed with the manager of [NOMBRE] - Store Associate."
+ },
+ {
+  "id": "INC-0225",
+  "categoria": "Servidor sin conexión",
+  "titulo": "STORE WITH NO INTERNET CONNECTION",
+  "solucion": "Connection was restored and confirmed by [NOMBRE] - Assistant."
+ },
+ {
+  "id": "INC-0226",
+  "categoria": "Servidor sin conexión",
+  "titulo": "LINK OFFLINE",
+  "solucion": "Connection was restored at 10:55."
+ },
+ {
+  "id": "INC-0227",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TECHNICAL SUPPORT - POS HARDWARE ISSUES | NO INTERNET CONNECTION",
+  "solucion": "connection to the wifi network was restored"
+ },
+ {
+  "id": "INC-0228",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TECHNICAL SUPPORT - SERVER HARDWARE ISSUES | OFFLINE",
+  "solucion": "connection was restored and confirmed by [NOMBRE] - STORE MANAGER"
+ },
+ {
+  "id": "INC-0229",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TECHNICAL SUPPORT - ROUTER HARDWARE ISSUES | OFFLINE",
+  "solucion": "The application is started and functionality is confirmed."
+ },
+ {
+  "id": "INC-0230",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT | SERVER ISSUE || No network",
+  "solucion": "Connection is restored and confirmed with the store manager."
+ },
+ {
+  "id": "INC-0231",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 MA [NOMBRE] LINK OFFLINE",
+  "solucion": "During the downtime it was confirmed the store had no issues with in-store and module sales. An attempt was made to report the incident to Global Fiber without success. After two hours, connection with the store was restored."
+ },
+ {
+  "id": "INC-0232",
+  "categoria": "Servidor sin conexión",
+  "titulo": "NOC SUPPORT - REGISTERS 2 AND 3 OFFLINE",
+  "solucion": "Basic troubleshooting was performed and the issue was referred to technical support, ticket"
+ },
+ {
+  "id": "INC-0233",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REGISTERS 2 AND 3 OFFLINE",
+  "solucion": "still no response; an email will be sent asking for a callback time"
+ },
+ {
+  "id": "INC-0234",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 [NOMBRE] San [NOMBRE] ADMIN PC OFFLINE",
+  "solucion": "A static IP (.200) is assigned to the admin PC and connection with the device is restored."
+ },
+ {
+  "id": "INC-0235",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 Delivery OFFLINE",
+  "solucion": "Powering on the device is requested."
+ },
+ {
+  "id": "INC-0236",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TECHNICAL SUPPORT | PC ISSUES - NO REMOTE CONNECTION",
+  "solucion": "it is confirmed it can connect"
+ },
+ {
+  "id": "INC-0237",
+  "categoria": "Servidor sin conexión",
+  "titulo": "ISSUE WITH REGISTER OFFLINE",
+  "solucion": "The server session was closed. The system is brought back up and confirmed operational with [NOMBRE]."
+ },
+ {
+  "id": "INC-0238",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000-[LOCAL] LINK OFFLINE",
+  "solucion": "Connection with the store is restored and correct operation of all devices is confirmed."
+ },
+ {
+  "id": "INC-0239",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - RECEIPT PRINTING ISSUE",
+  "solucion": "ISSUE: RECEIPTS NOT PRINTING - RECEIPT PRINTER OFFLINE • APPLICATIONS ARE RESTARTED • SERVICES ARE RESTARTED • KITCHEN PRINTER IS RECONNECTED • KITCHEN ORDER PRINTING IS CONFIRMED"
+ },
+ {
+  "id": "INC-0240",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - STORE OFFLINE",
+  "solucion": "connection with the store was restored"
+ },
+ {
+  "id": "INC-0241",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - Server offline issues",
+  "solucion": "connection is restored and confirmed by [NOMBRE] - store assistant"
+ },
+ {
+  "id": "INC-0242",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000- [NOMBRE] SERVER OFFLINE",
+  "solucion": "THE PASSWORD IS PROVIDED, THE USER IS GUIDED AND CONFIRMS NORMAL LOGIN. SERVER APPS START NORMALLY. REPLICATION IS RUN AND CONFIRMED."
+ },
+ {
+  "id": "INC-0243",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000 Link OFFLINE",
+  "solucion": "applications are restarted, the terminal is loaded and updated, it is confirmed with the user that there are no further issues"
+ },
+ {
+  "id": "INC-0244",
+  "categoria": "Servidor sin conexión",
+  "titulo": "TDA-000-RPPrimavera LINK OFFLINE",
+  "solucion": "Connection with all devices is restored after power is back."
+ },
+ {
+  "id": "INC-0245",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - PixelPoint OFFLINE AT REGISTERS",
+  "solucion": "The user is informed that PixelPoint must be opened on the server first. The application is opened on the server and registers start correctly."
+ },
+ {
+  "id": "INC-0246",
+  "categoria": "Servidor sin conexión",
+  "titulo": "REMOTE SUPPORT - Replicator disconnected from server",
+  "solucion": "Specific issue: REMOTE SUPPORT - Replicator disconnected from server. Cause: --. Solution: HQ server was stopped; the POS device is checked and the issue is resolved."
+ },
+ {
+  "id": "INC-0247",
+  "categoria": "Servidor sin conexión",
+  "titulo": "NOC SUPPORT -- SERVER OFFLINE",
+  "solucion": "The device was restarted by the store. Reconnection is confirmed after a few minutes."
+ }
+]
