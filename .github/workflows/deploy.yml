@@ -6,16 +6,15 @@ on:
       - main
 
 env:
-  PROJECT_ID: servicedesk-ai
+  PROJECT_ID: itservicedesk-502618
   REGION: us-central1
   REPO_NAME: servicedesk-repo
   IMAGE_NAME: servicedesk-app
-  SERVICE_NAME: mesa-ayuda-ia
+  SERVICE_NAME: service-desk-en
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
@@ -50,12 +49,13 @@ jobs:
         flags: --allow-unauthenticated # Permite acceder a la URL pública de la demo sin bloqueos de cuenta
         env_vars: |
           MOCK=false
-          GCP_PROJECT=servicedesk-ai
+          APP_LANG=en
+          GCP_PROJECT=itservicedesk-502618
           GCP_LOCATION=us-central1
           GEMINI_MODEL=gemini-2.5-flash
           JIRA_DOMAIN=itexpert-team.atlassian.net
           JIRA_EMAIL=crobregon@itexpert.pe
-          JIRA_PROJECT_KEY=SUP
+          JIRA_PROJECT_KEY=PS
           JIRA_ISSUE_TYPE_ID=10039
           JIRA_TRANSITION_CLOSE_ID=111
           JIRA_TRANSITION_ESCALATE_ID=31
